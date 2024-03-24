@@ -1,4 +1,4 @@
-package Collections;
+package collections;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -67,6 +67,5 @@ public class ArraylistDemo {
         list.clear();
 
         System.out.println(list.isEmpty());
-
     }
 }
